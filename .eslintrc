@@ -1,0 +1,4 @@
+ {
+  "plugins": ["ui-testing"],
+  "parser": "babel-eslint"
+}
